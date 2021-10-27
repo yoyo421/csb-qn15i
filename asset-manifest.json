@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://yoyo421.github.io/csb-qn15i/static/css/main.9643d172.chunk.css",
-    "main.js": "https://yoyo421.github.io/csb-qn15i/static/js/main.2e061133.chunk.js",
-    "main.js.map": "https://yoyo421.github.io/csb-qn15i/static/js/main.2e061133.chunk.js.map",
+    "main.js": "https://yoyo421.github.io/csb-qn15i/static/js/main.b21867da.chunk.js",
+    "main.js.map": "https://yoyo421.github.io/csb-qn15i/static/js/main.b21867da.chunk.js.map",
     "runtime-main.js": "https://yoyo421.github.io/csb-qn15i/static/js/runtime-main.5cfafc33.js",
     "runtime-main.js.map": "https://yoyo421.github.io/csb-qn15i/static/js/runtime-main.5cfafc33.js.map",
     "static/js/2.23abb4a8.chunk.js": "https://yoyo421.github.io/csb-qn15i/static/js/2.23abb4a8.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.5cfafc33.js",
     "static/js/2.23abb4a8.chunk.js",
     "static/css/main.9643d172.chunk.css",
-    "static/js/main.2e061133.chunk.js"
+    "static/js/main.b21867da.chunk.js"
   ]
 }
